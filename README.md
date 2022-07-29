@@ -10,3 +10,9 @@ MongoDB stores data in flexible, JSON-like documents. Fields in a database can v
 mages/WebConsole.gif
 
 ![text1](https://user-images.githubusercontent.com/108102087/181847355-5ed927ba-f06b-4684-bd5c-64f8c0621b92.PNG)
+
+# Step 3: Install Express and set up routes to the server
+
+Express is a minimal and flexible Node.js web application framework that provides features for web and mobile applications. We will use Express in to pass book information to and from our MongoDB database.
+
+We also will use Mongoose package which provides a straight-forward, schema-based solution to model your application data. We will use Mongoose to establish a schema for the database to store data of our book register
