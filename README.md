@@ -23,3 +23,5 @@ We also will use Mongoose package which provides a straight-forward, schema-base
 AngularJS provides a web framework for creating dynamic views in your web applications. In this tutorial, we use AngularJS to connect our web page with Express and perform actions on our book register.
 
 ![text3](https://user-images.githubusercontent.com/108102087/181925992-cf8afbef-c435-4118-b498-62cc9713df74.PNG)
+
+![text4](https://user-images.githubusercontent.com/108102087/181926295-3f7b1e5a-04cd-4482-9e0f-a3a7e38e0bd3.PNG)
